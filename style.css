@@ -113,7 +113,7 @@ h2  {
     height: 45px;
     border-radius: 50%;
 }
-.cbf    {
+.error    {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 75px;
     color: #ebebeb;
@@ -144,7 +144,7 @@ h2  {
     background-color: #5f5f5f;
     color: #bbbbbb;
 }
-.footer-404 {
+.footer-error {
     background-color: #1f1f1f;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
