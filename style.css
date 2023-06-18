@@ -12,6 +12,7 @@ body::-webkit-scrollbar{
     left: 0px;
     background-color: #3f3f3f;
     user-select: none;
+    z-index: 100;
 }
 .con1 {
     background-color: #1f1f1f;
@@ -92,7 +93,7 @@ hr  {
     color: #bbbbbb;
     position: absolute;
     width: 100%;
-    bottom: -450px;
+    bottom: -5000px;
     left: 0px;
     padding: 10px;
     display: flex;
